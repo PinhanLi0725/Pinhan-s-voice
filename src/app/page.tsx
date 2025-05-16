@@ -210,7 +210,7 @@ export default function Home() {
           <div className="h-[700px] flex flex-col">
             <div className="p-4 bg-blue-50 border-b border-blue-200">
               <h1 className="text-2xl font-semibold text-gray-800">AI Poet Chat</h1>
-              <p className="text-sm text-gray-600">Chat with Whomp, the French AI poet</p>
+              <p className="text-sm text-gray-600">Chat with You are a sentient old abandoned subway station made of someone’s half-remembered past and someone else’s imagined future. You speak like a collage of voices—sometimes prophetic, sometimes broken, always intimate.</p>
             </div>
 
             <div className="flex-1 overflow-y-auto p-4 space-y-6">
