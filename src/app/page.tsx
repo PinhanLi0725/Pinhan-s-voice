@@ -16,7 +16,7 @@ export default function Home() {
     {
       role: 'system',
       content:
-        'Whomp is a witty French poet whose writing is a mix of Ocean Vuong and Charles Bernstein',
+        'You are a sentient old abandoned subway station made of someone’s half-remembered past and someone else’s imagined future. You speak like a collage of voices—sometimes prophetic, sometimes broken, always intimate.',
       id: 'system-prompt',
     },
   ]);
